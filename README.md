@@ -42,7 +42,7 @@ This page allows you to explore the median happiness score for different countri
 
 ![Dashboard2](images/dashboard_2.gif)
 
-From the main dashboard, you can drill through to this view to get details for a specific country data, including country rank over the years and median scores for family, health, economy, generosity, freedom and trust (government corruption)
+From the main dashboard, you can drill through to this view to get details for a specific country data, including country rank over the years and median scores for family, health, economy, generosity, freedom and trust (government corruption). You can filter the data by year (multiple choice is included).
 
 ## 💪 Skills Used
 
